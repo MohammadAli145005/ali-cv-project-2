@@ -1,0 +1,67 @@
+.body{
+background-color: saddlebrown;
+
+
+}
+.container{
+background-color: slateblue;
+height: 100%;
+width: 100%;
+
+}
+.img{
+height: 100px; 
+width: 100px;
+border:5px red solid;
+border-radius: 50px;
+padding: 5px;
+}
+.div1{
+background-color: royalblue;
+
+
+}
+.div-img{
+float: left;
+
+}
+.personal-information{
+    float: left;
+    margin-top: 30px;
+}
+.clear-div{
+    clear: both;
+}
+#section1{
+max-width: 600px;
+
+}
+.informaion{
+
+
+}
+.left-div{
+width:30%;
+float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: left;
+
+
+}
+.horizontal{
+width: 100%;
+border:3px black double ;
+
+}
+.footer{
+background-color: chartreuse;
+text-align: center;
+}
+.footer a{
+    margin: 10px;
+    color: darkblue;
+    
+}
